@@ -1,4 +1,4 @@
-# Jobify React Project README
+# JobGenius React Project README
 
 ## About the Project
 
